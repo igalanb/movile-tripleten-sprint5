@@ -10,7 +10,7 @@ Validar funcionalidades de una aplicación móvil para pedidos, incluyendo naveg
 
 ## 🔧 Herramientas utilizadas
 - Jira (seguimiento)
-- Postman (validación de API)
+- Android Studio
 - Checklist en Excel
 
 ## 👩‍💻 Autor
